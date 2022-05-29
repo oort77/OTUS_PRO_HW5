@@ -28,9 +28,9 @@
 
 **Binder notebooks:**
 
-main.ipynb: Text preprocessing, TF-IDF, regression
-parsing.ipynb: Parsing
-eda.ipynb: EDA
+main.ipynb: Text preprocessing, TF-IDF, regression   
+parsing.ipynb: Parsing   
+eda.ipynb: EDA   
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oort77/OTUS_PRO_HW5/main)  
 
